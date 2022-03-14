@@ -1,0 +1,51 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Add your name.
+        h1 Furkan Bozokluoglu
+
+        //- Feel free personalize the title below
+        p.lead.text-light
+          | UI-UX Designer & Front-End Web Developer
+
+        //- Replace the boilerplate below with your Elevator pitch below.
+        .portfolio-bio
+          p
+            | One of the best skills to work on in my life, is the ability to be self-aware and understand myself. 
+            | After nearly eight years of solid engineering career, I needed to press reset on my life and think what kind of life I wanted to live. 
+            | Information technologies and digital art have always been an important part of my interests. When I first met with digital design and programming, 
+            | I found myself too excited to find a platform where I can express myself creatively with so much flexibility. Currently, 
+            | I am studying Computer Information Systems Emerging Technologies PBD program at Douglas College, and
+            | I would like to develop my whole career in combination of UI/UX development and design.       
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
+        ul
+          li Html/Css
+          li Java Script
+          li JQuery
+          li React  
+          li Java
+          li Express/Pug
+          li Node
+          
+        h6 Contact Info
+        ul
+              li 236-591-8687
+              li furkanb_@outlook.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href=behance  target="_blank") UI/UX Portfolio
+         a.button.expanded(href=gitHub target="_blank") GitHub
+        a.button.expanded(href=linkedIn target="_blank") Linked-In
+        
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

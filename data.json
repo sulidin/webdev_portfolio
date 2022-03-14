@@ -1,0 +1,84 @@
+[
+    {
+        "id": "0",
+        "project_name": "Sormadim Ama Anlatiyor",
+        "description": "Podcast website front-end design & development. This is my first web development project.",
+        "technologies": [
+            "Bootstrap5",
+            "Html",
+            "Css"
+        ],
+        "live_link": "https://sulidin.github.io/saa/",
+        "github_link": "https://github.com/sulidin/saa",
+        "image_urls": [
+            "/images/podcast1.jpg",
+            "/images/podcast2.jpg",
+            "/images/podcast3.jpg"
+        ]
+    },
+    {
+        "id": "1",
+        "project_name": "Geo Lab",
+        "description": "Petrographic Laboratory Web Page front-end design & development.",
+        "technologies": [
+            "Javascript",
+            "Html",
+            "Css"
+        ],
+        "live_link": "https://sulidin.github.io/geolab/",
+        "github_link": "https://github.com/sulidin/geolab.git",
+        "image_urls": [
+            "/images/geolab1.jpg",
+            "/images/geolab2.jpg",
+            "/images/geolab3.jpg",
+            "/images/geolab4.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "project_name": "Pagination",
+        "description": "Project uses vanilla JS and creates pagination links",
+        "technologies": [
+            "Javascript",
+            "Html",
+            "Css"
+        ],
+        "live_link": "https://sulidin.github.io/pagination",
+        "github_link": "https://github.com/sulidin/pagination",
+        "image_urls": [
+            "/images/pagination1.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "project_name": "Public API",
+        "description": "Web app generates employee directory by communicating with a third-party API",
+        "technologies": [
+            "Javascript",
+            "Html",
+            "Css"
+        ],
+        "live_link": "https://sulidin.github.io/publicAPI",
+        "github_link": "https://github.com/sulidin/publicAPI",
+        "image_urls": [
+            "/images/publicAPI1.jpg",
+            "/images/publicAPI2.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "project_name": "Quote Generator",
+        "description": "Web page generates random famous quotes",
+        "technologies": [
+            "Javascript",
+            "Html",
+            "Css"
+        ],
+        "live_link": "https://sulidin.github.io/RandomQuotes",
+        "github_link": "https://github.com/sulidin/RandomQuotes",
+        "image_urls": [
+            "/images/randomQuotes1.jpg",
+            "/images/randomQuotes2.jpg"
+        ]
+    }
+]
